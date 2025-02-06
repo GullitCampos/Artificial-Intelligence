@@ -1,0 +1,63 @@
+Coluna excluída: (Acidity) 
+Matriz de confusão:
+[504  92]
+[ 74 530]
+Acurácia: 86.17 %
+Precisão: 87.20 %
+Revocação: 84.56 %
+Especificidade: 87.75 %
+
+Coluna excluída: (Crunchiness) 
+Matriz de confusão:
+[511  85]
+[ 67 537]
+Acurácia: 87.33 %
+Precisão: 88.41 %
+Revocação: 85.74 %
+Especificidade: 88.91 %
+
+Coluna excluída: (Juiciness) 
+Matriz de confusão:
+[519  77]
+[ 74 530]
+Acurácia: 87.42 %
+Precisão: 87.52 %
+Revocação: 87.08 %
+Especificidade: 87.75 %
+
+Coluna excluída: (Ripeness) 
+Matriz de confusão:
+[502  94]
+[106 498]
+Acurácia: 83.33 %
+Precisão: 82.57 %
+Revocação: 84.23 %
+Especificidade: 82.45 %
+
+Coluna excluída: (Size) 
+Matriz de confusão:
+[502  94]
+[ 90 514]
+Acurácia: 84.67 %
+Precisão: 84.80 %
+Revocação: 84.23 %
+Especificidade: 85.10 %
+
+Coluna excluída: (Sweetness) 
+Matriz de confusão:
+[491 105]
+[ 88 516]
+Acurácia: 83.92 %
+Precisão: 84.80 %
+Revocação: 82.38 %
+Especificidade: 85.43 %
+
+Coluna excluída: (Weight) 
+Matriz de confusão:
+[503  93]
+[ 71 533]
+Acurácia: 86.33 %
+Precisão: 87.63 %
+Revocação: 84.40 %
+Especificidade: 88.25 %
+
